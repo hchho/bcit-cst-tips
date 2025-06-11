@@ -40,6 +40,10 @@ There are two camps when it comes to applying for co-ops. In one camp, folks wou
 
 Nevertheless, there are some universal truths and questions when it comes to your co-op application. Here are some questions I've heard repeatedly over the years.
 
+**Q: Why would a company hire a co-op? What value do I bring?**
+
+A: Some companies hire co-ops to complete certain tasks, some companies hire co-ops to get funding, some companies are sincere in hiring co-ops to nurture them into potential full-time employees. Unfortunately, at the time being you do not have a lot of ownership over which company decides to hire you. However, it is prudent to understand your role as soon as possible, so you can set realistic expectations for yourself and your team in what you set out to achieve in your co-op.
+
 **Q: Does my first company matter? Should I go for a QA role?**
 
 A: Kind of. There are no absolutes and each person will have a different career journey. Some go on to have very successful careers despite not landing a co-op. Some may land a QA role begrudgingly, only for that opportunity to turn into something else entirely. Some may land a rockstar company for their first co-op, but then struggle to land their first real job. 
